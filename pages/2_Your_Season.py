@@ -150,7 +150,7 @@ with tab1:
             st.markdown(
                 """
                 <div style="padding: 10px; border-radius: 5px; background-color: #fff3cd; border: 1px solid #ffeeba;">
-                    <strong>🌸 Spring!</strong><br>
+                    <p style="color=black;"><strong>🌸 Spring!</strong></p><br>
                     <img src="https://media.tenor.com/4ZVSxNBJoF8AAAAm/peach-goma-flowers.webp" alt="spring-flower-gif" width="150">
                 </div>
                 """,
@@ -160,7 +160,7 @@ with tab1:
             st.markdown(
                 """
                 <div style="padding: 10px; border-radius: 5px; background-color: #fff3cd; border: 1px solid #ffeeba;">
-                    <strong>💐 Summer!</strong><br>
+                    <p style="color=black;"><strong>💐 Summer!</strong></p><br>
                     <img src="https://media.tenor.com/kZzow5agOnkAAAAi/flowers.gif" alt="giving-you-flowers" width="150">
                 </div>
                 """,
@@ -170,7 +170,7 @@ with tab1:
             st.markdown(
                 """
                 <div style="padding: 10px; border-radius: 5px; background-color: #fff3cd; border: 1px solid #ffeeba;">
-                    <strong>🍁 Fall!</strong><br>
+                    <p style="color=black;"><strong>🍁 Fall!</strong></p><br>
                     <img src="https://media.tenor.com/cfTFUax4X5kAAAAi/malloon-cute.gif" alt="cat-on-a-pumpkin" width="150">
                 </div>
                 """,
@@ -180,7 +180,7 @@ with tab1:
             st.markdown(
                 """
                 <div style="padding: 10px; border-radius: 5px; background-color: #fff3cd; border: 1px solid #ffeeba;">
-                    <strong>❄️ Winter!</strong><br>
+                    <p style="color=black;"><strong>❄️ Winter!</strong></p><br>
                     <img src="https://media.tenor.com/Du9VVJYDPDkAAAAi/tkthao219-bubududu.gif" alt="cold-in-winter" width="150">
                 </div>
                 """,
