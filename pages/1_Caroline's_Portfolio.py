@@ -1,5 +1,27 @@
 '''streamlit
-requests'''
+requests
+def activities_section(leadership_data, activity_data):
+    st.header("🧗 Activities")
+    tab1, tab2 = st.tabs(["Leadership", "Club Activity"])
+    with tab1:
+        st.subheader("🥇 Leadership")
+        for title, (details, image) in leadership_data.items():
+            expander = st.expander(f"{title}")
+            expander.image(image, width=250)
+            for bullet in details:
+                expander.write(bullet)
+
+    with tab2:
+        st.subheader("👥 Club Activity")
+        for title, details in activity_data.items():
+            expander = st.expander(f"{title}")
+            for bullet in details:
+                expander.write(bullet)
+    st.write("---")
+activities_section(info.leadership_data, info.activity_data)
+
+
+'''
 
 import streamlit as st
 import info
@@ -87,25 +109,7 @@ def skills_section(programming_data, spoken_data):
 skills_section(info.programming_data, info.spoken_data)
 
 #Activities
-def activities_section(leadership_data, activity_data):
-    st.header("🧗 Activities")
-    tab1, tab2 = st.tabs(["Leadership", "Club Activity"])
-    with tab1:
-        st.subheader("🥇 Leadership")
-        for title, (details, image) in leadership_data.items():
-            expander = st.expander(f"{title}")
-            expander.image(image, width=250)
-            for bullet in details:
-                expander.write(bullet)
 
-    with tab2:
-        st.subheader("👥 Club Activity")
-        for title, details in activity_data.items():
-            expander = st.expander(f"{title}")
-            for bullet in details:
-                expander.write(bullet)
-    st.write("---")
-activities_section(info.leadership_data, info.activity_data)
 
 
 
