@@ -44,7 +44,7 @@ experience_data = {
 project_data = {
     "What Did I Scroll": ["- Architected a system to keep track of Youtube video information and watched duration using Manifest V3",
                                               "- Constructed a backend to store video information and watching history effectively in real time",
-                                              "- Accepted into CREATE-X Idea-to-Prototype program and currently worked with a faculty mentor to streamline process and enhance design choices"]
+                                              "- Accepted into CREATE-X Idea-to-Prototype program and currently worked with a faculty mentor to streamline process and enhance design choices"],
     "Cat Encyclopedia Web App": ["- Compiled and deployed a web application that analyzes and presents data from the Cat API, including dynamic visualizations of breed lifespan using Pandas and interactive search tools for exploring breed characteristics",
                                                "- Formulated a personalized quiz to match users with the most compatible cat breed",
                                                "- Designed an AI-powered Life With a Cat experience using Google Gemini to generate practical care guidance, simulate a realistic day in the life for chosen cat breeds, and display breed-specific image galleries",
