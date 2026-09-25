@@ -48,7 +48,7 @@ project_data = {
     "Cat Encyclopedia Web App": ["- Compiled and deployed a web application that analyzes and presents data from the Cat API, including dynamic visualizations of breed lifespan using Pandas and interactive search tools for exploring breed characteristics",
                                                "- Formulated a personalized quiz to match users with the most compatible cat breed",
                                                "- Designed an AI-powered Life With a Cat experience using Google Gemini to generate practical care guidance, simulate a realistic day in the life for chosen cat breeds, and display breed-specific image galleries",
-                                 "Cooperated with another student to develop a chatbot using the Gemini API, capable of tailoring responses to breed-specific information and maintaining conversational context"]
+                                 "- Cooperated with another student to develop a chatbot using the Gemini API, capable of tailoring responses to breed-specific information and maintaining conversational context"]
 }
 
 programming_data = {
