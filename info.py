@@ -1,5 +1,6 @@
 
-profile_picture = "images/profile.jpeg"
+profile_picture = "images/BusinessAttire-ProfilePic.jpg"
+# profile.jpeg
 
 about_me = "I'm Caroline Tran, a second-year CS major at GA Tech. I'm passionate about art🎨 and tech🖥️ and many more things: mechanical keyboards, fountain pens, calligraphy, lettering, acrylic painting, watercolor painting!"
 
