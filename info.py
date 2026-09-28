@@ -5,7 +5,7 @@ profile_picture = "images/BusinessAttire-ProfilePic.jpg"
 about_me = "I'm Caroline Tran, a second-year CS major at GA Tech. I'm passionate about art🎨 and tech🖥️ and many more things: mechanical keyboards, fountain pens, calligraphy, lettering, acrylic painting, watercolor painting!"
 
 linkedin_image_url = "https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"
-my_linkedin_url = "https://www.linkedin.com/in/nguyen-bao-ngoc-tran-a5a07a249/"
+my_linkedin_url = "https://www.linkedin.com/in/caroline-tran-gatech"
 
 github_image_url = "https://cdn-icons-png.flaticon.com/256/25/25231.png"
 my_github_url = "https://github.com/caroline-n"
